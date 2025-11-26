@@ -2,7 +2,7 @@
 
 # MnadAI | Monad AI Agent
 
-![MnadAI](https://github.com/user-attachments/assets/abceed91-a760-47b2-b91a-570941ad5503)
+![83658abf-c342-42b2-9279-82b780dec9512](https://github.com/user-attachments/assets/d31aab05-533b-4b6c-8375-1477989360ba)
 
 An open-source LangChain agent that automates wallet management, on-chain data collection, and token operations on the Monad Mainnet.
 
